@@ -33,7 +33,12 @@ To develop a Sales and Finance Analytics Report, aimed at extracting decision-ma
    - The gross margin percentage (GM%) declined slightly from 41.4% in 2019 to 36.4% in 2021.
    - This indicates rising costs, requiring attention to procurement and pricing strategies.
 
-### 3. Market Performance
+### 3. Customer Net Sales Performance
+   - Amazon($82.1M) is leading the market in Net Sales (2021), followed by AtliQ Exclusive($61.1M) and Atliq e Store($53M).
+   - Report:
+      
+
+### 4. Market Net Sales Performance
    - India contributed the highest sales in 2021 ($161.3M), followed by the USA ($87.8M) and South Korea ($49.0M).
    - Markets with low GM%: Germany (26.2%) and Norway (29.5%).
    - Markets with high GM%: New Zealand (48.2%) followed by Japan (46.5%).
