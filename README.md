@@ -36,7 +36,9 @@ To develop a Sales and Finance Analytics Report, aimed at extracting decision-ma
 ### 3. Customer Net Sales Performance
    - Amazon($82.1M) is leading the market in Net Sales (2021), followed by AtliQ Exclusive($61.1M) and Atliq e Store($53M).
    - Report:
-      
+
+      ![image](https://github.com/user-attachments/assets/f3886ba5-e835-41e9-aac5-e487322f797c)
+
 
 ### 4. Market Net Sales Performance
    - India contributed the highest sales in 2021 ($161.3M), followed by the USA ($87.8M) and South Korea ($49.0M).
