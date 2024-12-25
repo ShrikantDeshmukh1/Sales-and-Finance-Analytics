@@ -49,4 +49,13 @@ To develop a Sales and Finance Analytics Report, aimed at extracting decision-ma
 
 5. Quarterly Profit and Loss (P&L) Comparison
    - Significant sales growth in 2021 with stable profit margins despite increased costs.
+   - Report:
+
+![image](https://github.com/user-attachments/assets/751cdccb-eecb-4e52-80e5-fe6fcfc45949)
+
+6. Net Sales Comparison by Fiscal Year & Month
+   - Net Sales significantly increased (1981.6%) in March 2021 as compared to (-67.1%) March between 2019vs2020.
+   - Report:
+
+
 
