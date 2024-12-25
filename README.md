@@ -14,8 +14,15 @@ To develop a Sales and Finance Analytics Report, aimed at extracting decision-ma
 
 ## Dataset Summary
 ### Data Highlights:
--- Time Period: 2019 - 2021
--- Metrics Analyzed:
-   -- Net Sales
-   -- Cost of Goods Sold (COGS)
-   -- Gross Margin Percentage (GM%)
+- Time Period: 2019 - 2021
+- Metrics Analyzed:
+   - Net Sales
+   - Cost of Goods Sold (COGS)
+   - Gross Margin Percentage (GM%)
+- Customer Segments: Individual customers and global markets.
+
+## Key Findings
+1. Annual Revenue Growth
+   - Revenue grew from 87.5M INR in 2019 to 598.9M INR in 2021, achieving a compound annual growth rate (CAGR) of approximately 103%.
+   - The largest year-over-year growth was from 2020 to 2021, with an increase of 204.5%.
+
