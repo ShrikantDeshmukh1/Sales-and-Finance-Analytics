@@ -39,5 +39,12 @@ To develop a Sales and Finance Analytics Report, aimed at extracting decision-ma
    - Markets with high GM%: New Zealand (48.2%) followed by Japan (46.5%).
    - Report:
 
+![image](https://github.com/user-attachments/assets/5741fc45-8295-4f22-bd9e-a1dab5c080f3)
+
+4. Market Performance vs. Sales Targets Comparison
+   - Some markets exceeded their sales targets, while others fell short, providing insights for future strategies.
+   - Report:
+
+
 
 
