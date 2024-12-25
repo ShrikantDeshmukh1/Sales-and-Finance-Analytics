@@ -45,6 +45,8 @@ To develop a Sales and Finance Analytics Report, aimed at extracting decision-ma
    - Some markets exceeded their sales targets, while others fell short, providing insights for future strategies.
    - Report:
 
+![image](https://github.com/user-attachments/assets/a73d3fa7-2f70-4dc6-978d-b409f92d458f)
 
-
+5. Quarterly Profit and Loss (P&L) Comparison
+   - Significant sales growth in 2021 with stable profit margins despite increased costs.
 
