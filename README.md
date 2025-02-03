@@ -22,6 +22,7 @@ This report assist in enhancing sales performance, generating discounts and adap
 
 ### 1. Customer Net Sales Performance
 Analyzed the net sales performance of individual customers from 2019 to 2021. This report aims to identify key trends and patterns in customer purchasing behavior, assess customer retention and loyalty, and uncover high-performing and underperforming customer segments. The insights gained will guide strategic initiatives to enhance customer engagement, increase sales from existing customers, and improve overall customer satisfaction.
+	
 
 
 
