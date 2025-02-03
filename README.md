@@ -22,7 +22,15 @@ This report assist in enhancing sales performance, generating discounts and adap
 
 ### 1. Customer Net Sales Performance
 Analyzed the net sales performance of individual customers from 2019 to 2021. This report aims to identify key trends and patterns in customer purchasing behavior, assess customer retention and loyalty, and uncover high-performing and underperforming customer segments. The insights gained will guide strategic initiatives to enhance customer engagement, increase sales from existing customers, and improve overall customer satisfaction.
-	
+
+	!
+ 
+ - This report analyses the net sales performance of individual customers in Indian market from 2019-2021.
+ - Amazon is leading in 2021 with Net sales of 23M, followed by AtliQ Exclusive (18.4M) and Flipkart (9.9M).
+ - Each customer have shown consistent growth in net sales over each year.
+
+
+
 
 
 
