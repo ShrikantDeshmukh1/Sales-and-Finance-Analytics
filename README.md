@@ -1,7 +1,11 @@
-# Atliq Hardware Business Intelligence Reports
+# Sales and Finance Analytics
 ## Presentation PDF: [P&L report.pdf](https://github.com/ShrikantDeshmukh1/Sales-and-Finance-Analytics/blob/main/P%26L%20report.pdf)
-## Introduction
-Atliq Hardware specializes in selling a wide range of hardware products, including personal computers, mice, printers, and various peripheral devices. Our diverse product lineup caters to a broad range of customers, and we also manufacture our products. To reach our customers, we utilize intermediaries such as retail giants like Croma and Best Buy, as well as popular online marketplaces like Flipkart and Amazon.
+
+## About Company
+Atliq hardware is one of the leading electronic hardware manufacturing company, with broad product portfolio. They mainly sells their products through different channels like Retailer, Distributer or they sell directly by themselves. Their products are mainly categorized into 3 categories: P&A(Peripherals & Accessories), N&S (Network & Storage) and PCs.
+	 In this project, we will delve into the sales data of Atliq Hardware to uncover actionable insights that will drive sales growth and boost the company's revenue.
+![image](https://github.com/user-attachments/assets/9d83857c-0fd6-41b1-89d9-53bcf8698749)
+
 
 These intermediaries play a crucial role in connecting Atliq's products with end consumers, ensuring our offerings are accessible to the general public.
 
@@ -35,10 +39,11 @@ To develop a Sales and Finance Analytics Report, aimed at extracting decision-ma
    - This indicates rising costs, requiring attention to procurement and pricing strategies.
 
 ### 3. Customer Net Sales Performance
-   - Amazon($82.1M) is leading the market in Net Sales (2021), followed by AtliQ Exclusive($61.1M) and Atliq e Store($53M).
+   - Amazon($23M) is leading the market in Net Sales (2021), followed by AtliQ Exclusive($18.4M) and Flipkart($9.9M).
    - Report:
 
-      ![image](https://github.com/user-attachments/assets/f3886ba5-e835-41e9-aac5-e487322f797c)
+      ![image](https://github.com/user-attachments/assets/adbfc864-d3de-404e-ba0b-155aa56f5ce1)
+
 
 
 ### 4. Market Net Sales Performance
