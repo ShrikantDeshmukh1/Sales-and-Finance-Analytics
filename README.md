@@ -3,19 +3,10 @@
 
 ## About Company
 Atliq hardware is one of the leading electronic hardware manufacturing company, with broad product portfolio. They mainly sells their products through different channels like Retailer, Distributer or they sell directly by themselves. Their products are mainly categorized into 3 categories: P&A(Peripherals & Accessories), N&S (Network & Storage) and PCs.
-	 In this project, we will delve into the sales data of Atliq Hardware to uncover actionable insights that will drive sales growth and boost the company's revenue.
-![image](https://github.com/user-attachments/assets/9d83857c-0fd6-41b1-89d9-53bcf8698749)
-
-
-These intermediaries play a crucial role in connecting Atliq's products with end consumers, ensuring our offerings are accessible to the general public.
+		In this project, we will delve into the sales data of Atliq Hardware to uncover actionable insights that will drive sales growth and boost the company's revenue.
 
 ## Problem Statement
 To develop a Sales and Finance Analytics Report, aimed at extracting decision-making insights for well-articulated strategies at Atliq Hardware.
-
-## Objective
-1. Comparing YOY and Growth% of Net Sales by Customer and Markets.
-2. P&L by Fiscal Year: Break down of the Profit and Loss statement by fiscal year, allowing for year-over-year comparisons and trend analysis to assess financial growth, seasonal impacts, and operational efficiency.
-3. Profit and Loss (P&L) reports by fiscal year quarters and months.
 
 ## Dataset Summary
 ### Data Highlights:
@@ -25,6 +16,33 @@ To develop a Sales and Finance Analytics Report, aimed at extracting decision-ma
    - Cost of Goods Sold (COGS)
    - Gross Margin Percentage (GM%)
 - Customer Segments: Individual customers and global markets.
+
+## Sales Analysis
+This report assist in enhancing sales performance, generating discounts and adapting to economic changes.
+
+### 1. Customer Net Sales Performance
+Analyzed the net sales performance of individual customers from 2019 to 2021. This report aims to identify key trends and patterns in customer purchasing behavior, assess customer retention and loyalty, and uncover high-performing and underperforming customer segments. The insights gained will guide strategic initiatives to enhance customer engagement, increase sales from existing customers, and improve overall customer satisfaction.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Key Findings
 ### 1. Annual Revenue Growth
