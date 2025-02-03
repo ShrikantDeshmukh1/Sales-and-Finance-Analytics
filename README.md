@@ -23,11 +23,32 @@ This report assist in enhancing sales performance, generating discounts and adap
 ### 1. Customer Net Sales Performance
 Analyzed the net sales performance of individual customers from 2019 to 2021. This report aims to identify key trends and patterns in customer purchasing behavior, assess customer retention and loyalty, and uncover high-performing and underperforming customer segments. The insights gained will guide strategic initiatives to enhance customer engagement, increase sales from existing customers, and improve overall customer satisfaction.
 
-	!
- 
+   ![image](https://github.com/user-attachments/assets/98c76278-38b9-4875-8807-193371fc4b19)
+
  - This report analyses the net sales performance of individual customers in Indian market from 2019-2021.
  - Amazon is leading in 2021 with Net sales of 23M, followed by AtliQ Exclusive (18.4M) and Flipkart (9.9M).
  - Each customer have shown consistent growth in net sales over each year.
+
+### 2. Market Performance Vs Target
+- Top Performing Markets:
+  - India:  $161.3M (largest contributor, despite a 5.9% shortfall)
+  - USA:  $87.8M (second largest, with a 11.7% shortfall)
+  - South Korea:  $49M (8.2% shortfall)
+  - These markets are critical for the company's revenue, making them essential for strategic focus.
+
+- Under Performing Markets:
+  - Australia: $21.0M (10.5% below target)
+  - Canada: $35.1M (14.5% below target)
+  - Germany: $12.0M (12.7% below target)
+
+- Trends:
+  - Most markets show a significant growth in sales from 2020 to 2021.
+  - Shortfall percentages are moderate across most countries, indicating room for improvement in achieving targets.
+  - Markets like Norway and Austria have faced notable challenges, resulting in substantial underperformance.
+
+    
+
+
 
 
 
