@@ -46,7 +46,8 @@ Analyzed the net sales performance of individual customers from 2019 to 2021. Th
   - Shortfall percentages are moderate across most countries, indicating room for improvement in achieving targets.
   - Markets like Norway and Austria have faced notable challenges, resulting in substantial underperformance.
 
-    
+    ![image](https://github.com/user-attachments/assets/3d3c0f92-4675-4ea2-bb31-76c2df276b1d)
+
 
 
 
