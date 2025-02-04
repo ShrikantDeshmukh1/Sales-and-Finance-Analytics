@@ -58,6 +58,7 @@ Delivered a detailed analysis of the company's financial performance across diff
 ### 2. P & L by Fiscal Year
 Provided a comprehensive analysis of the company's financial performance on an annual basis. This report aims to offer a clear overview of net sales, cost of goods sold (COGS), gross margin, and gross margin percentage by fiscal year. By examining these key metrics, the report will help management identify long-term trends, assess the overall financial health of the company, and make informed strategic decisions to enhance profitability and operational efficiency.
 
+   -   ![image](https://github.com/user-attachments/assets/20af9f94-adee-4831-babc-1cba8a9c00a3)
 
 
  ### 3. P & L by Fiscal Month/Quarter
