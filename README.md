@@ -46,7 +46,7 @@ Analyzed the net sales performance of individual customers from 2019 to 2021. Th
   - Shortfall percentages are moderate across most countries, indicating room for improvement in achieving targets.
   - Markets like Norway and Austria have faced notable challenges, resulting in substantial underperformance.
 
-    ![image](https://github.com/user-attachments/assets/3d3c0f92-4675-4ea2-bb31-76c2df276b1d)
+   -    ![image](https://github.com/user-attachments/assets/3d3c0f92-4675-4ea2-bb31-76c2df276b1d)
 
 ## Finance Analytics
 These reports aids management in identifying trends, effectively allocating resources, and planning for future growth. Income statements illustrate the company's profit relative to its revenue. They guide day-to-day operations, including managing expenses, pricing and inventory.
@@ -63,6 +63,7 @@ Provided a comprehensive analysis of the company's financial performance on an a
  ### 3. P & L by Fiscal Month/Quarter
  Delivered a detailed analysis of the company's financial performance on a more granular level. This report focuses on net sales, cost of goods sold (COGS), gross margin, and gross margin percentage by quarter and month. By breaking down the financial data into smaller time periods, the report will enable management to monitor short-term performance, identify seasonal trends, and quickly respond to emerging challenges and opportunities. This approach will facilitate agile decision-making and help in optimizing the company's financial operations on a continuous basis.
 
+   -   ![image](https://github.com/user-attachments/assets/a078a163-5346-4ab9-9b57-0e33f6b03d2f)
 
 
 ## Recommendations:
